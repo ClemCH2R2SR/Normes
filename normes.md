@@ -50,7 +50,7 @@ Comment faire pour respecter le PCI DSS ?
 ## ISO 27001
 
 
-![ISO!]([https://coockpit.com/consulting/wp-content/uploads/2018/12/rgpd-1.png](https://www.eurgpd.ovh/wp-content/uploads/2019/05/iso27001-rgpd.jpg) "ISO")
+![ISO!](https://www.eurgpd.ovh/wp-content/uploads/2019/05/iso27001-rgpd.jpg "ISO")
 
 La norme ISO 27001 (qui est donc par une norme internationale) définit les exigences des **systèmes de management de la sécurité de l’information**. 
 Il fait partie de la famille ISO 27000 de normes relatives à l’information et à la cybersécurité et offre un ensemble complet de mesures de contrôles, 
