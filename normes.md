@@ -3,9 +3,10 @@
 ## RGPD
 
 Règlement Général sur la Protection des Données 
+
 Un règlement adopté par l'Union européenne pour renforcer **la protection des données personnelles.** 
 
-**Par exemple :** une entreprise qui **traite et collecte les données personnelles** (cookies), 
+Par exemple :une entreprise qui **traite et collecte les données personnelles** (cookies), 
 elle a des obligations spécifiques pour garantir la protection des données qui lui sont confiées 
 et que l'utilisateur soit informer que l'entreprise collecte ses données. 
 Il est important de noter que le traitement des données doit avoir un objectif et qu'il doit être clairement défini et justifié. 
