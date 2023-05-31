@@ -3,10 +3,10 @@
 <h2>RGPD</h2>
 
 <p>Règlement Général sur la Protection des Données <br> 
-Un règlement adopté par l'Union européenne pour renforcer </strong>la protection des données personnelles.</strong>
-<strong>Par exemple :</strong> une entreprise qui </strong>traite et collecte les données personnelles</strong> (cookies),  
-elle a des obligations spécifiques pour garantir la protection des données qui lui sont confiées. 
-Il est important de noter que le traitement des données doit avoir un objectif
+Un règlement adopté par l'Union européenne pour renforcer </strong>la protection des données personnelles.</strong> <br>
+<strong>Par exemple :</strong> une entreprise qui </strong>traite et collecte les données personnelles</strong> (cookies), 
+elle a des obligations spécifiques pour garantir la protection des données qui lui sont confiées. <br>
+Il est important de noter que le traitement des données doit avoir un objectif et qu'il doit être clairement défini et justifié. <br>
 Le RGPD vise à </strong>améliorer et garantir la confidentialité et la sécurité des données personnelles des individus.</strong>
 </p>
 
@@ -23,11 +23,16 @@ Le RGPD vise à </strong>améliorer et garantir la confidentialité et la sécur
 
 
 <h2>PCI-DSS</h2>
-
-PCI-DSS est une norme de sécurité des données pour l'industrie des cartes de paiement. Elle a été développée en collaboration entre les grandes marques de cartes 
-de paiement telles que Visa, Mastercard, American Express, Discover et JCB 
+<p>PCI-DSS est une norme de sécurité des données pour l'industrie des cartes de paiement. Elle a été développée en collaboration entre les grandes marques de cartes 
+de paiement telles que Visa, Mastercard, American Express, Discover et JCB. <br>
 Elle a été développée pour protéger les informations sensibles des titulaires de cartes de paiement,
-telles que les numéros de carte et les codes de sécurité.
+telles que les numéros de carte et les codes de sécurité. <br>
+Comment faire pour respecter le PCI DSS ? </p>
+<ul>
+<li>Collecter et transmettre en toute sécurité les données relatives aux cartes bancaires</li>
+<li>Sauvegarder l’ensemble des données de façon sécurisée</li>
+<li>Pouvoir garantir que les centaines de contrôles de sécurité décrits dans le PCI DSS sont bien effectués</li>
+</ul>
 
 
 <h2>ISO 27001</h2>
