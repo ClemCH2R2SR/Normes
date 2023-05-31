@@ -1,7 +1,7 @@
 # Exposé RGPD / LCEN / PCI-DSS / ISO 27001
 
 ## RGPD
-![RGPD!](R (1).png)
+![RGPD!](R (1).png "RGPD")
 
 Règlement Général sur la Protection des Données 
 
