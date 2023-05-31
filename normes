@@ -2,6 +2,8 @@
 
 <h2>RGPD</h2>
 
+
+
 <p>Règlement Général sur la Protection des Données <br> 
 Un règlement adopté par l'Union européenne pour renforcer la protection des données personnelles.
 Par exemple : une entreprise qui traite et collecte les données personnelles (cookies), 
@@ -11,6 +13,14 @@ Le RGPD vise à améliorer la confidentialité et la sécurité des données per
 en favorisant une approche plus transparente et responsable de la collecte et du traitement des données.
 </p>
 <h2>LCEN</h2>
+
+<p>La LCEN ou <strong>loi pour la confiance dans l'économie numérique</strong> est une loi francaise adoptée en France en 2004, qui est une transposition d'une directive europeéne visant à promouvoir le commerce électronique en son sein. On peut définir la définir comme le prolongement numérique du traité de libre échange.<br/>Elle sert donc à reguler touts les acteurs du marché :</p><br/>
+<ul>
+<li>entrepreneurs</li>
+<li>consommateurs</li>
+<li>techniciens</li>
+</ul>
+<p>Elle règule l'accès à l'information au consommateur avec la promulgation de l'obligation daposer des <strong>mentions légales</strong> sur tout business web</p>
 
 <h2>PCI-DSS</h2>
 
