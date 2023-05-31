@@ -4,6 +4,7 @@
 
 Règlement Général sur la Protection des Données 
 Un règlement adopté par l'Union européenne pour renforcer **la protection des données personnelles.** 
+
 **Par exemple :** une entreprise qui **traite et collecte les données personnelles** (cookies), 
 elle a des obligations spécifiques pour garantir la protection des données qui lui sont confiées 
 et que l'utilisateur soit informer que l'entreprise collecte ses données. 
@@ -14,14 +15,14 @@ Le RGPD vise à **améliorer et garantir la confidentialité et la sécurité de
 
 ## LCEN
 
-La LCEN ou ** loi pour la confiance dans l'économie numérique ** est une loi francaise adoptée en France en 2004, qui est une transposition d'une directive europeéne visant à promouvoir le commerce électronique en son sein. On peut définir la définir comme le prolongement numérique du traité de libre échange.
+La LCEN ou **loi pour la confiance dans l'économie numérique** est une loi francaise adoptée en France en 2004, qui est une transposition d'une directive europeéne visant à promouvoir le commerce électronique en son sein. On peut définir la définir comme le prolongement numérique du traité de libre échange.
 Elle sert donc à reguler touts les acteurs du marché :
 
 - entrepreneurs
 - consommateurs
 - techniciens
 
-Elle règule l'accès à l'information au consommateur avec la promulgation de l'obligation daposer des ** mentions légales ** sur tout business web.
+Elle règule l'accès à l'information au consommateur avec la promulgation de l'obligation daposer des **mentions légales** sur tout business web.
 
 
 ## PCI-DSS
