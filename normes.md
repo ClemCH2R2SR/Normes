@@ -31,10 +31,10 @@ Elle règule l'accès à l'information au consommateur avec la promulgation de l
 
 ![PCI-DSS!](https://www.protectimus.com/blog/wp-content/uploads/2015/10/pci-dss-logo-1.jpg "PCI-DSS")
 
-PCI-DSS est une norme de sécurité des données pour l'industrie des cartes de paiement. Elle a été développée en collaboration entre les grandes marques de cartes 
-de paiement telles que Visa, Mastercard, American Express, Discover et JCB. 
-Elle a été développée pour protéger les informations sensibles des titulaires de cartes de paiement,
-telles que les numéros de carte et les codes de sécurité. 
+PCI-DSS est une norme de sécurité des données pour l'industrie des cartes de paiement. 
+Elle a été développée en collaboration entre les grandes marques de cartes de paiement telles que Visa, Mastercard, American Express, Discover et JCB. 
+
+Elle a été développée pour protéger les informations sensibles des titulaires de cartes de paiement, telles que les numéros de carte et les codes de sécurité. 
 
 Comment faire pour respecter le PCI DSS ? 
 
