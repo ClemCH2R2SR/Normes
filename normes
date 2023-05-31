@@ -2,15 +2,12 @@
 
 <h2>RGPD</h2>
 
-
-
 <p>Règlement Général sur la Protection des Données <br> 
-Un règlement adopté par l'Union européenne pour renforcer la protection des données personnelles.
-Par exemple : une entreprise qui traite et collecte les données personnelles (cookies), 
+Un règlement adopté par l'Union européenne pour renforcer </strong>la protection des données personnelles.</strong>
+<strong>Par exemple :</strong> une entreprise qui </strong>traite et collecte les données personnelles</strong> (cookies),  
 elle a des obligations spécifiques pour garantir la protection des données qui lui sont confiées. 
-e plus, le traitement et la collections de données doit avoir un objectif
-Le RGPD vise à améliorer la confidentialité et la sécurité des données personnelles des individus, 
-en favorisant une approche plus transparente et responsable de la collecte et du traitement des données.
+Il est important de noter que le traitement des données doit avoir un objectif
+Le RGPD vise à </strong>améliorer et garantir la confidentialité et la sécurité des données personnelles des individus.</strong>
 </p>
 <h2>LCEN</h2>
 
@@ -23,6 +20,10 @@ en favorisant une approche plus transparente et responsable de la collecte et du
 <p>Elle règule l'accès à l'information au consommateur avec la promulgation de l'obligation daposer des <strong>mentions légales</strong> sur tout business web</p>
 
 <h2>PCI-DSS</h2>
+PCI-DSS est une norme de sécurité des données pour l'industrie des cartes de paiement. Elle a été développée en collaboration entre les grandes marques de cartes 
+de paiement telles que Visa, Mastercard, American Express, Discover et JCB 
+Elle a été développée pour protéger les informations sensibles des titulaires de cartes de paiement,
+telles que les numéros de carte et les codes de sécurité.
 
 <h2>ISO 27001</h2>
 
