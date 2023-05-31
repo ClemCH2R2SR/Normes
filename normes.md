@@ -3,7 +3,7 @@
 ## RGPD
 ![RGPD!](https://coockpit.com/consulting/wp-content/uploads/2018/12/rgpd-1.png "RGPD")
 
-Règlement Général sur la Protection des Données 
+Règlement Général sur la Protection des Données. 
 
 Un règlement adopté par l'Union européenne pour renforcer **la protection des données personnelles.** 
 
