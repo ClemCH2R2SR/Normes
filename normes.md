@@ -18,6 +18,8 @@ Le RGPD vise à **améliorer et garantir la confidentialité et la sécurité de
 
 ## LCEN
 
+![LCEN!](https://www.limerick.ie/sites/default/files/styles/hero_image/public/media/images/2021-02/lcen-810x456.jpg?itok=Uxi_01UD "LCEN")
+
 La LCEN ou **loi pour la confiance dans l'économie numérique** est une loi francaise adoptée en France en 2004, qui est une transposition d'une directive europeéne visant à promouvoir le commerce électronique en son sein. On peut définir la définir comme le prolongement numérique du traité de libre échange.
 Elle sert donc à reguler touts les acteurs du marché :
 
@@ -46,6 +48,9 @@ Comment faire pour respecter le PCI DSS ?
 
 
 ## ISO 27001
+
+
+![ISO!]([https://coockpit.com/consulting/wp-content/uploads/2018/12/rgpd-1.png](https://www.eurgpd.ovh/wp-content/uploads/2019/05/iso27001-rgpd.jpg) "ISO")
 
 La norme ISO 27001 (qui est donc par une norme internationale) définit les exigences des **systèmes de management de la sécurité de l’information**. 
 Il fait partie de la famille ISO 27000 de normes relatives à l’information et à la cybersécurité et offre un ensemble complet de mesures de contrôles, 
